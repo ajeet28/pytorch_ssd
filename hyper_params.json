@@ -1,0 +1,11 @@
+{
+    "Comments"          :   ["Modify only if you know what are you upto"],
+    "config file"       :   "config/",
+    "Image Dir"         :   "image",
+    "Output Dir"        :   "out",
+    "weights path"      :   "weights/weight.pth",
+    "iou threshold"     :   0.5,
+    "score confidence"  :   0.5,
+    "SSD Type"          :   512,
+
+}
