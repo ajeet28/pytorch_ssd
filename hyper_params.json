@@ -1,11 +1,10 @@
 {
     "Comments"          :   ["Modify only if you know what are you upto"],
-    "config file"       :   "config/",
-    "Image Dir"         :   "image",
-    "Output Dir"        :   "out",
-    "weights path"      :   "weights/weight.pth",
-    "iou threshold"     :   0.5,
-    "score confidence"  :   0.5,
-    "SSD Type"          :   512,
-
+    "configfile"       	:   "configs/ssd512_voc0712.yaml",
+    "ImgDir"         	:   "image",
+    "OutDir"        	:   "out",
+    "weight"      		:   "weight/weights.pth",
+    "iou"     			:   0.5,
+    "score"  			:   0.5,
+    "SSD_Type"          :   "voc"
 }
